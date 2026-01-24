@@ -2,6 +2,7 @@
 layout: page
 title: Data Engineering
 permalink: /data-engineering/
+order: 2
 ---
 
 ## Snapshot
