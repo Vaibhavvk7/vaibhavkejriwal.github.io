@@ -150,6 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
+url: "https://vaibhavvk7.github.io"
 baseurl: "/vaibhavkejriwal.github.io"
 
 
