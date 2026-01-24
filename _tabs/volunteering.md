@@ -2,6 +2,7 @@
 layout: page
 title: Leadership & Volunteering
 permalink: /volunteering/
+order: 7
 ---
 
 ## Leadership & Community
