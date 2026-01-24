@@ -2,6 +2,7 @@
 layout: page
 title: Machine Learning
 permalink: /machine-learning/
+order: 3
 ---
 
 ## Snapshot
