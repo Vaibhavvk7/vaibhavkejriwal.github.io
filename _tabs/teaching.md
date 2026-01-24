@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+order: 6
 ---
 
 ## Northeastern University — Lead Teaching Assistant
