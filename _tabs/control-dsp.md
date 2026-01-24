@@ -2,6 +2,7 @@
 layout: page
 title: DSP & Control Systems
 permalink: /control-dsp/
+order: 4
 ---
 
 ## Snapshot
