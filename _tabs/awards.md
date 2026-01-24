@@ -2,6 +2,7 @@
 layout: page
 title: Awards & Certifications
 permalink: /awards/
+order: 7
 ---
 
 ## Awards
