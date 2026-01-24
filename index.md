@@ -5,7 +5,8 @@ permalink: /
 ---
 
 **Data Engineering • ML Systems • DSP/Control**  
-Boston, MA • <your email> • [LinkedIn](#) • [GitHub](#) • [Google Scholar](#)
+Boston, MA • vaibhavkejriwal050901@gmail.com
+
 
 I build **reliable data + ML systems** end-to-end (Snowflake/dbt/Kafka/Spark) and also work in **DSP + control** (noise/echo cancellation, PI control, simulation). I like taking messy, real-world signals/data and turning them into systems people trust.
 
@@ -14,6 +15,12 @@ I build **reliable data + ML systems** end-to-end (Snowflake/dbt/Kafka/Spark) an
 - **Real-Time AI Fraud Detection (Kafka + MongoDB Vector Search + LLM embeddings)** — low-latency behavior anomalies.  
 - **DSP: Noise & Echo Removal (MATLAB)** — LMS/RLS/Wiener/Butterworth + MFCC + classifiers.  
 - **Digital Twin Fab Control (SimPy + PI control)** — stabilized WIP & cycle time under downtime.
+
+## Connect
+
+🔗 **GitHub:** [github.com/Vaibhavvk7](https://github.com/Vaibhavvk7)  
+💼 **LinkedIn:** [vaibhav-kejriwal](https://www.linkedin.com/in/vaibhav-kejriwal-10981b136/)  
+📚 **Google Scholar:** [Research & Publications](https://scholar.google.com/citations?user=BiUWIqgAAAAJ&hl=en)
 
 ## Choose a track
 - [Data Engineering](./data-engineering/)
