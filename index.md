@@ -18,8 +18,8 @@ I build **reliable data + ML systems** end-to-end (Snowflake/dbt/Kafka/Spark) an
 
 ## Connect
 
-🔗 **GitHub:** [github.com/Vaibhavvk7](https://github.com/Vaibhavvk7)  
-💼 **LinkedIn:** [vaibhav-kejriwal](https://www.linkedin.com/in/vaibhav-kejriwal-10981b136/)  
+🔗 **GitHub:** [Vaibhavvk7](https://github.com/Vaibhavvk7)  
+💼 **LinkedIn:** [Vaibhav Kejriwal](https://www.linkedin.com/in/vaibhav-kejriwal-10981b136/)  
 📚 **Google Scholar:** [Research & Publications](https://scholar.google.com/citations?user=BiUWIqgAAAAJ&hl=en)
 
 ## Choose a track
